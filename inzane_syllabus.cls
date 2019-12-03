@@ -183,7 +183,7 @@
 
 		%------------------------------------------------
         
-        \profilesection{\vspace{0.7cm} Responsáveis}      
+        \profilesection{\vspace{0.7cm} Professor}      
         
         \begin{tabular}{p{0.5cm} @{\hskip 0.5cm}p{5cm}}
         	\ifthenelse{\equal{\profname}{}}{}{\textsc{\large\icon{\faUser}} & \profname \\}
